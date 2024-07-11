@@ -1,3 +1,4 @@
+![Screenshot 2024-07-11 232235](https://github.com/anubhav7631/CODETECH-Task2/assets/142887222/a9895a9f-8953-4e2a-b3e9-8444d57821fb)
 # WEATHER-APP
 
 Name:Anubhav Kumar
